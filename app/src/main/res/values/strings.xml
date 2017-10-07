@@ -5,4 +5,7 @@
     <string name="login_text_hint_correo_electronico">Correo electronico</string>
     <string name="login_text_hint_contraseña">Password</string>
     <string name="login_text_btn_entrar">Boton Entarr</string>
+    <string name="login_text_error_is_empty_email">Inserta tu email.</string>
+    <string name="login_text_error_is_empty_password">Inserta tu contraseña.</string>
+    <string name="login_text_error_is_valis_email">Inserta un correo electronico valido</string>
 </resources>
